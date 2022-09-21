@@ -17,6 +17,7 @@
   "license": "ISC",
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.16.7",
+    "autoprefixer": "^10.4.2",
     "eslint": "^8.8.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-import": "^2.25.4",
@@ -24,8 +25,10 @@
     "eslint-plugin-react": "^7.28.0",
     "eslint-plugin-react-hooks": "^4.3.0",
     "parcel": "^2.7.0",
+    "postcss": "^8.4.6",
     "prettier": "^2.7.1",
-    "process": "^0.11.10"
+    "process": "^0.11.10",
+    "tailwindcss": "^3.0.22"
   },
   "dependencies": {
     "react": "^17.0.2",
